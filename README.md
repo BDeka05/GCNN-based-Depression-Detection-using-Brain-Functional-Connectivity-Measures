@@ -1,5 +1,5 @@
 # GCNN-based-Depression-Detection-using-Brain-Functional-Connectivity-Measures
-Title: Graph Convolutional Neural Network based Depression Detection using Brain Functional Connectivity Measures
+Title: [Graph Convolutional Neural Network based Depression Detection using Brain Functional Connectivity Measures](https://ieeexplore.ieee.org/document/11585960)
 
 Authors: Jutika Borah, Debarun Chakraborty, Bhabesh Deka, Rosy Sarmah, Siddeswara Bargur Linganna, Diptadhi Mukherjee, Ram Bilas Pachori, and Mohit Khamele
 
