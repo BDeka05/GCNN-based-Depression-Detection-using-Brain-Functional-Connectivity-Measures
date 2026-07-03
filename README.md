@@ -11,4 +11,4 @@ Institutions:
 
 (3) Indian Institute of Technology Indore, Indore 453552, India
 
-Publication: Accepted paper in IEEE Journal of Biomedical and Health Informatics (J-BHI)
+Publication (Early Access Available): Accepted paper in IEEE Journal of Biomedical and Health Informatics (J-BHI) 
